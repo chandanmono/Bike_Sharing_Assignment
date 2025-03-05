@@ -1,20 +1,24 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Assignment - BoomBike
+> Using MLR
 
+## problem Statement
+After covid the company wants to recover loss with huge profit by analysing the followings
+1. Indepent variables(X) which will help to understand the demand for sharebike over Count(Y) 
+2. How well variable describe the bike demand
+3. To build model using Multiple Linear Regression Mode will Train and Test the dataset for above answers
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Technologies Used
+  EDA
+  Visualization
+  Mapping
+  Dummy Variables
+  Multicollinearity
+  Split in to train and test
+  Residual Analysis
+  Preduction on Testset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
